@@ -1,0 +1,38 @@
+fabric-api
+appleskin
+BetterF3
+bobby
+cloth-config
+	Gamma-Utils
+cullleaves
+dynamic-fps
+elytra-chestplate-swapper
+held-item-info
+malilib
+	minihud
+modmenu
+NoFog
+shulkerboxtooltip
+smoothboot
+sodium
+WI-Zoom
+Xaeros_Minimap
+XaerosWorldMap
+bobby
+inventory-hotswap
+
+
+
+roughlyEnoughItems
+3dskinLayers
+litematica
+lithium
+notEnoughtCrashes
+mousewheelie
+iris (shaders)
+autoclicker
+
+
+
+
+architectury
